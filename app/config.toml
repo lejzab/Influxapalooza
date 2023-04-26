@@ -1,0 +1,10 @@
+[application]
+# log_level="INFO"
+[influx]
+# host="localhost"
+# port=8806
+# username="admin"
+# password="admin"
+# database="testdb"
+# protocol="http"
+precision="s"
